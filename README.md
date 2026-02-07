@@ -13,7 +13,7 @@ npm install
 npm run dev
 save
 
-फिर:
+
 
 git add .
 git commit -m "added README"
